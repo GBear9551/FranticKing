@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cdb97e65db805d4f8657d729272c0ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - applePrefab: {fileID: 5642353208679515385, guid: a89f56b005bf9bd4faa81cdd79198534, type: 3}
+  - coinPrefab: {fileID: 8770585059436000387, guid: 6e3606821d2e46f4796562e6a455a11e, type: 3}
+  - fencePrefab: {fileID: 2283538968597967926, guid: e4245eb45893fae46abdf69c64f4a419, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
